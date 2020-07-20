@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,WAAY,CACZ,yBAAkB,CAAlB,sBAAkB,CAAlB,iBAAkB,CAClB,iBACF,CAEA,GACE,eACF","file":"main.5e1c6ca3.chunk.css","sourcesContent":[".App {\r\n  margin: auto;\r\n  width: fit-content;\r\n  text-align: center;\r\n}\r\n\r\nli {\r\n  text-align: left;\r\n}\r\n"]}
